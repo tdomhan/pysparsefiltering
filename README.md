@@ -1,0 +1,4 @@
+pysparsefiltering
+=================
+
+SparseFiltering for python
